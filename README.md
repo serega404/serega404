@@ -15,7 +15,7 @@
 - ❓ Ask me about anything related to the organization of the server  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ I am more active on my gitea server
   
 
 <br/>  
@@ -67,6 +67,7 @@
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
 <a href="https://gitea.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Gitea_Logo.svg" alt="Gitea" height="50" /></a>  
 <a href="https://github.com/actions" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/44036562" alt="Github actions" height="50" /></a>  
+<a href="https://www.proxmox.com/" target="_blank"><img style="margin: 10px" src="https://pve.proxmox.com/mediawiki/resources/assets/proxmox_logo.png" alt="PROXMOX" height="50" /></a>  
 </div>  
 
 
