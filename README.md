@@ -3,19 +3,19 @@
 </div>  
   
 
-### <div align="center">I'm Sergey, a freelance developer 🚀</div>   
+### <div align="center">I'm Sergey, a C# developer && DevOps engineer</div>   
   
 
-- 🔭 I’m currently working on Smart Metrics (on private repo)🙁  
+- 🔭 I’m currently working on a chain of arcade games machine. (hardware + software)
   
 
-- 🌱 I’m currently learning Avalonia Framework 
+- 🌱 I’m currently learning Blazor ecosystem
   
 
 - ❓ Ask me about anything related to the organization of the server  
   
 
-- ⚡ I am more active on my gitea server
+- ⚡ I am more active on <a href="https://git.zetcraft.ru/">my gitea server</a> and my instantces of gitea servers on job
   
 
 <br/>  
