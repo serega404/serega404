@@ -78,6 +78,8 @@
 <a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" /></a>  
+<a href="https://playwright.dev/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/microsoft/playwright.dev/refs/heads/main/static/img/playwright-logo.svg" alt="Playwright" height="50" /></a> 
+  
 </div>
 
 </td></tr></table>  
